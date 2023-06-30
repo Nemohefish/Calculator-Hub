@@ -12,8 +12,8 @@ iRay  | Programming
 
 local Release = "Beta 8"
 local NotificationDuration = 6.5
-local RayfieldFolder = "Rayfield"
-local ConfigurationFolder = RayfieldFolder.."/Configurations"
+local RayfieldFolder = "Noob-Hub"
+local ConfigurationFolder = RayfieldFolder.."/Hello"
 local ConfigurationExtension = ".rfld"
 
 
